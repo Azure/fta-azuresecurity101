@@ -20,6 +20,7 @@ We spoke about [Azure Security Center](https://docs.microsoft.com/en-gb/azure/se
     *   [Adaptive Network Hardening](https://docs.microsoft.com/en-us/azure/security-center/security-center-adaptive-network-hardening)
 *   We also mentioned that you can integrate ASC with [Defender for Endpoint](https://docs.microsoft.com/en-us/azure/security-center/security-center-wdatp) for advanced threat protection detection and response capabilities.
 *   For downstream integration into your SIEM or another system, you can use [the continuous export capability](https://docs.microsoft.com/en-us/azure/security-center/continuous-export?tabs=azure-portal) in Security Center, and stream the events, alerts and recommendations to an Event Hub.
+* List of Security Alerts: [Security Alerts Reference Guide](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference)
 
 Learning resources:
 
